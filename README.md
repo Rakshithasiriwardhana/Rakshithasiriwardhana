@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm rakshitha siriwardhana</h1>
+<h1 align="center">Hi 👋, I'm Rakshitha Siriwardhana</h1>
 <h3 align="center">I'm undergraduate at University of Ruhuna</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshithasiriwardhana&label=Profile%20views&color=0e75b6&style=flat" alt="rakshithasiriwardhana" /> </p>
